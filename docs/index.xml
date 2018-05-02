@@ -2,40 +2,40 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Adeel&#39;s Blog</title>
-    <link>https://www.example.com/</link>
+    <link>https://a-akhtar.github.io/hugo-blog-example/</link>
     <description>Recent content on Adeel&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2016. All rights reserved.</copyright>
     <lastBuildDate>Wed, 02 May 2018 08:56:21 -0400</lastBuildDate>
     
-	<atom:link href="https://www.example.com/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://a-akhtar.github.io/hugo-blog-example/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>First Post</title>
-      <link>https://www.example.com/post/first-post/</link>
+      <link>https://a-akhtar.github.io/hugo-blog-example/post/first-post/</link>
       <pubDate>Wed, 02 May 2018 08:56:21 -0400</pubDate>
       
-      <guid>https://www.example.com/post/first-post/</guid>
+      <guid>https://a-akhtar.github.io/hugo-blog-example/post/first-post/</guid>
       <description>Hello Welcome to my new blog. Please come back at some other time when the website is ready.</description>
     </item>
     
     <item>
       <title>Second Post</title>
-      <link>https://www.example.com/post/second-post/</link>
+      <link>https://a-akhtar.github.io/hugo-blog-example/post/second-post/</link>
       <pubDate>Wed, 02 May 2018 08:56:21 -0400</pubDate>
       
-      <guid>https://www.example.com/post/second-post/</guid>
+      <guid>https://a-akhtar.github.io/hugo-blog-example/post/second-post/</guid>
       <description>Hello Welcome to my new blog. Please come back at some other time when the website is ready.</description>
     </item>
     
     <item>
       <title>About</title>
-      <link>https://www.example.com/about/</link>
+      <link>https://a-akhtar.github.io/hugo-blog-example/about/</link>
       <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://www.example.com/about/</guid>
+      <guid>https://a-akhtar.github.io/hugo-blog-example/about/</guid>
       <description>Hugo is a static site engine written in Go.
 It makes use of a variety of open source projects including:
  Cobra Viper J Walter Weatherman Cast  Learn more and contribute on GitHub.
@@ -45,10 +45,10 @@ Setup Some fun facts about Hugo:
     
     <item>
       <title>Contact</title>
-      <link>https://www.example.com/contact/</link>
+      <link>https://a-akhtar.github.io/hugo-blog-example/contact/</link>
       <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://www.example.com/contact/</guid>
+      <guid>https://a-akhtar.github.io/hugo-blog-example/contact/</guid>
       <description> First Name  Last Name  E-Mail  City  State AL CA IL      Send   </description>
     </item>
     

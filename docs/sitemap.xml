@@ -3,44 +3,44 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://www.example.com/post/first-post/</loc>
+    <loc>https://a-akhtar.github.io/hugo-blog-example/post/first-post/</loc>
     <lastmod>2018-05-02T08:56:21-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.example.com/post/second-post/</loc>
+    <loc>https://a-akhtar.github.io/hugo-blog-example/post/second-post/</loc>
     <lastmod>2018-05-02T08:56:21-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.example.com/about/</loc>
+    <loc>https://a-akhtar.github.io/hugo-blog-example/about/</loc>
     <lastmod>2014-04-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.example.com/contact/</loc>
+    <loc>https://a-akhtar.github.io/hugo-blog-example/contact/</loc>
     <lastmod>2014-04-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.example.com/</loc>
+    <loc>https://a-akhtar.github.io/hugo-blog-example/</loc>
     <lastmod>2018-05-02T08:56:21-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://www.example.com/post/</loc>
+    <loc>https://a-akhtar.github.io/hugo-blog-example/post/</loc>
     <lastmod>2018-05-02T08:56:21-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://www.example.com/tags/</loc>
+    <loc>https://a-akhtar.github.io/hugo-blog-example/tags/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://www.example.com/topics/</loc>
+    <loc>https://a-akhtar.github.io/hugo-blog-example/topics/</loc>
     <priority>0</priority>
   </url>
   
