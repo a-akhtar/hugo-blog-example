@@ -6,4 +6,4 @@ draft: false
 
 # Hello 
 
-Welcome to my new blog. Please come back at some other time when the website is ready.
+Welcome to my new blog. Please come back at some other time when the website is ready. Lets write some thing up. 

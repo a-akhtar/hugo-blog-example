@@ -18,7 +18,7 @@
       <pubDate>Wed, 02 May 2018 08:56:21 -0400</pubDate>
       
       <guid>https://a-akhtar.github.io/hugo-blog-example/post/first-post/</guid>
-      <description>Hello Welcome to my new blog. Please come back at some other time when the website is ready.</description>
+      <description>Hello Welcome to my new blog. Please come back at some other time when the website is ready. Lets write some thing up.</description>
     </item>
     
     <item>
@@ -28,6 +28,15 @@
       
       <guid>https://a-akhtar.github.io/hugo-blog-example/post/second-post/</guid>
       <description>Hello Welcome to my new blog. Please come back at some other time when the website is ready.</description>
+    </item>
+    
+    <item>
+      <title>My Hugo Blog Post</title>
+      <link>https://a-akhtar.github.io/hugo-blog-example/post/org-mode-post/</link>
+      <pubDate>Wed, 14 Dec 2016 10:17:43 +0000</pubDate>
+      
+      <guid>https://a-akhtar.github.io/hugo-blog-example/post/org-mode-post/</guid>
+      <description>Title    a b c   d e f    </description>
     </item>
     
     <item>
